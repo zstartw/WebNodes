@@ -1,5 +1,9 @@
 
 
+## 块引用
+
+<blockquote> 与 </blockquote> 之间的所有文本都会从常规文本中分离出来，经常会在左、右两边进行缩进，而且有时会使用斜体。也就是说，块引用拥有它们自己的空间。
+
 ## 边框
 
 要在元素周围创建边框，您只需要border-style 。 值可以是solid ， dotted ， dashed ， double ， groove ， ridge ， inset和outset 。
